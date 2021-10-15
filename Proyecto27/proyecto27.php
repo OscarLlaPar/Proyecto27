@@ -1,3 +1,3 @@
 <?php
 
-echo "proyecto 27";
+echo "proyecto 27 version 2";
