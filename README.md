@@ -5,7 +5,7 @@ hola buenos dias
 a veces
 t
 ## Entorno de desarrollo
-* Apache2
+* Apache2.0
 * PHP 7.4
 * MySQL 8.0
 * XDebug 2.9
