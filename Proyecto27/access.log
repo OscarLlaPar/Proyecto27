@@ -273,12 +273,3 @@
 192.168.3.14 - - [15/Oct/2021:11:11:42 +0000] "POST /phpmyadmin/ajax.php HTTP/1.1" 200 2781 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
 192.168.3.14 - - [15/Oct/2021:11:11:42 +0000] "POST /phpmyadmin/db_structure.php?ajax_request=1&favorite_table=1&sync_favorite_tables=1 HTTP/1.1" 200 1437 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
 ::1 - - [15/Oct/2021:11:11:50 +0000] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.41 (Ubuntu) (internal dummy connection)"
-0
-0
-0
-0
-0
-0
-0
-0
-0
